@@ -1,8 +1,8 @@
 
 
-https://github.com/user-attachments/assets/d4f09624-ee72-410b-98e3-54abf7015754
 
-# Countries App
+
+# Countries App(Walmart Assessment)
 
 
                                         📌 Overview
@@ -91,6 +91,9 @@ Run the app on an emulator or device.
 Run the test cases using: ./gradlew ./gradlew CountryDataLayoutKtTest.kt
 
 Note: your terminal must be on java 11
+
+This is a video that shows the app running
+https://github.com/user-attachments/assets/d4f09624-ee72-410b-98e3-54abf7015754
 
 
 
