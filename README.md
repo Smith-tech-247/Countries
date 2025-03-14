@@ -66,6 +66,10 @@ Android Studio (Latest version)
 Kotlin & Java installed
 
 Emulator or Physical Device with API level 23+
+
+Android gradle plugin version 8.5.0
+
+gradle version 8.11.0
                
 🚀 Installation
 Clone the repository:
@@ -74,7 +78,7 @@ git clone https://github.com/Smith-tech-247/Countries.git
 
 Open the project in Android Studio.
 
-Sync Gradle dependencies.
+Click on File > Sync Project with Gradle Files.
 
 Run the app on an emulator or device.
 
@@ -82,7 +86,7 @@ Run the app on an emulator or device.
                                          
 Run the test cases using: ./gradlew ./gradlew CountryDataLayoutKtTest.kt
 
-note: Your terminal must be on java 11
+Note: your terminal must be on java 11
 
 
 
